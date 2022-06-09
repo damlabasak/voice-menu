@@ -1,0 +1,17 @@
+.header {
+  background: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 2px 0px;
+  margin: 10px 0;
+}
+
+.logo {
+  padding: 5px;
+  width: 290px;
+}
+.logo > a > img {
+  width: 100%;
+  border-radius: 3px;
+}
