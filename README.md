@@ -1,5 +1,5 @@
 # voice-menu
- A digital menu that performs the steps of selecting products and placing an order with voice commands. It is a web application with integrated artificial intelligence software called Alan AI. It is also my computer engineering graduation project.
+ A digital menu that performs the steps of selecting products and placing an order with voice commands. It is a React.js web application with integrated artificial intelligence software called Alan AI. It is also my computer engineering graduation project.
 
 You can access the web application here -> https://voice-menu-demo-16b37.web.app/ (the under construction)
 
